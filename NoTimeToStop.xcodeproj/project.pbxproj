@@ -1,0 +1,439 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1E26E0002B39B01400BBAA42 /* FlipView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E26DFFE2B39B01400BBAA42 /* FlipView.swift */; };
+		1E26E0012B39B01400BBAA42 /* OrbView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E26DFFF2B39B01400BBAA42 /* OrbView.swift */; };
+		1E26E0032B39B03A00BBAA42 /* TimerManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E26E0022B39B03A00BBAA42 /* TimerManager.swift */; };
+		1E45DAEB2B33053A002E3BEF /* NoTimeToStopApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E45DAEA2B33053A002E3BEF /* NoTimeToStopApp.swift */; };
+		1E45DAED2B33053A002E3BEF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E45DAEC2B33053A002E3BEF /* ContentView.swift */; };
+		1E45DAEF2B33053B002E3BEF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1E45DAEE2B33053B002E3BEF /* Assets.xcassets */; };
+		1E45DAF22B33053B002E3BEF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1E45DAF12B33053B002E3BEF /* Preview Assets.xcassets */; };
+		1E45DAFD2B3306CE002E3BEF /* NoTimeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E45DAFC2B3306CE002E3BEF /* NoTimeView.swift */; };
+		1E45DAFF2B330727002E3BEF /* ToStopView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E45DAFE2B330727002E3BEF /* ToStopView.swift */; };
+		1E45DB012B330798002E3BEF /* StopThinkExistView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E45DB002B330798002E3BEF /* StopThinkExistView.swift */; };
+		1E45DB042B330AA9002E3BEF /* Aeonik-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1E45DB032B330AA9002E3BEF /* Aeonik-Bold.ttf */; };
+		1E45DB082B34A62A002E3BEF /* SubtitleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E45DB072B34A62A002E3BEF /* SubtitleView.swift */; };
+		1E45DB0A2B34C5F7002E3BEF /* AppConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E45DB092B34C5F7002E3BEF /* AppConfig.swift */; };
+		1E45DB0E2B35D23F002E3BEF /* Aeonik-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1E45DB062B3323AE002E3BEF /* Aeonik-Black.ttf */; };
+		1EB78F8F2B3F2BD4001D0811 /* Documentation.docc in Sources */ = {isa = PBXBuildFile; fileRef = 1EB78F8E2B3F2BD4001D0811 /* Documentation.docc */; };
+		1EB78F912B40B8B6001D0811 /* TimerEvent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EB78F902B40B8B6001D0811 /* TimerEvent.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1E26DFFE2B39B01400BBAA42 /* FlipView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FlipView.swift; sourceTree = "<group>"; };
+		1E26DFFF2B39B01400BBAA42 /* OrbView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OrbView.swift; sourceTree = "<group>"; };
+		1E26E0022B39B03A00BBAA42 /* TimerManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerManager.swift; sourceTree = "<group>"; };
+		1E45DAE72B33053A002E3BEF /* No Time To Stop..app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "No Time To Stop..app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1E45DAEA2B33053A002E3BEF /* NoTimeToStopApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoTimeToStopApp.swift; sourceTree = "<group>"; };
+		1E45DAEC2B33053A002E3BEF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		1E45DAEE2B33053B002E3BEF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		1E45DAF12B33053B002E3BEF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		1E45DAFC2B3306CE002E3BEF /* NoTimeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoTimeView.swift; sourceTree = "<group>"; };
+		1E45DAFE2B330727002E3BEF /* ToStopView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToStopView.swift; sourceTree = "<group>"; };
+		1E45DB002B330798002E3BEF /* StopThinkExistView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StopThinkExistView.swift; sourceTree = "<group>"; };
+		1E45DB032B330AA9002E3BEF /* Aeonik-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Aeonik-Bold.ttf"; sourceTree = "<group>"; };
+		1E45DB052B330AC6002E3BEF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		1E45DB062B3323AE002E3BEF /* Aeonik-Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Aeonik-Black.ttf"; sourceTree = "<group>"; };
+		1E45DB072B34A62A002E3BEF /* SubtitleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubtitleView.swift; sourceTree = "<group>"; };
+		1E45DB092B34C5F7002E3BEF /* AppConfig.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppConfig.swift; sourceTree = "<group>"; };
+		1EB78F8E2B3F2BD4001D0811 /* Documentation.docc */ = {isa = PBXFileReference; lastKnownFileType = folder.documentationcatalog; path = Documentation.docc; sourceTree = "<group>"; };
+		1EB78F902B40B8B6001D0811 /* TimerEvent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerEvent.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1E45DAE42B33053A002E3BEF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		1E26DFFD2B39B01400BBAA42 /* Background */ = {
+			isa = PBXGroup;
+			children = (
+				1E26DFFE2B39B01400BBAA42 /* FlipView.swift */,
+				1E26DFFF2B39B01400BBAA42 /* OrbView.swift */,
+			);
+			path = Background;
+			sourceTree = "<group>";
+		};
+		1E45DADE2B33053A002E3BEF = {
+			isa = PBXGroup;
+			children = (
+				1EB78F8E2B3F2BD4001D0811 /* Documentation.docc */,
+				1E45DAE92B33053A002E3BEF /* NoTimeToStop */,
+				1E45DAE82B33053A002E3BEF /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		1E45DAE82B33053A002E3BEF /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1E45DAE72B33053A002E3BEF /* No Time To Stop..app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		1E45DAE92B33053A002E3BEF /* NoTimeToStop */ = {
+			isa = PBXGroup;
+			children = (
+				1E45DAEA2B33053A002E3BEF /* NoTimeToStopApp.swift */,
+				1E45DAEC2B33053A002E3BEF /* ContentView.swift */,
+				1E26DFFD2B39B01400BBAA42 /* Background */,
+				1E45DB0D2B34C803002E3BEF /* Text */,
+				1E45DB0C2B34C7ED002E3BEF /* Utils */,
+				1E45DB022B330A7C002E3BEF /* Resources */,
+				1E45DAEE2B33053B002E3BEF /* Assets.xcassets */,
+				1E45DB052B330AC6002E3BEF /* Info.plist */,
+				1E45DAF02B33053B002E3BEF /* Preview Content */,
+			);
+			path = NoTimeToStop;
+			sourceTree = "<group>";
+		};
+		1E45DAF02B33053B002E3BEF /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				1E45DAF12B33053B002E3BEF /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		1E45DB022B330A7C002E3BEF /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				1E45DB062B3323AE002E3BEF /* Aeonik-Black.ttf */,
+				1E45DB032B330AA9002E3BEF /* Aeonik-Bold.ttf */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		1E45DB0C2B34C7ED002E3BEF /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				1E45DB092B34C5F7002E3BEF /* AppConfig.swift */,
+				1E26E0022B39B03A00BBAA42 /* TimerManager.swift */,
+				1EB78F902B40B8B6001D0811 /* TimerEvent.swift */,
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
+		1E45DB0D2B34C803002E3BEF /* Text */ = {
+			isa = PBXGroup;
+			children = (
+				1E45DAFC2B3306CE002E3BEF /* NoTimeView.swift */,
+				1E45DAFE2B330727002E3BEF /* ToStopView.swift */,
+				1E45DB002B330798002E3BEF /* StopThinkExistView.swift */,
+				1E45DB072B34A62A002E3BEF /* SubtitleView.swift */,
+			);
+			path = Text;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1E45DAE62B33053A002E3BEF /* NoTimeToStop */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1E45DAF52B33053B002E3BEF /* Build configuration list for PBXNativeTarget "NoTimeToStop" */;
+			buildPhases = (
+				1E45DAE32B33053A002E3BEF /* Sources */,
+				1E45DAE42B33053A002E3BEF /* Frameworks */,
+				1E45DAE52B33053A002E3BEF /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = NoTimeToStop;
+			productName = NoTimeToStop;
+			productReference = 1E45DAE72B33053A002E3BEF /* No Time To Stop..app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		1E45DADF2B33053A002E3BEF /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1510;
+				LastUpgradeCheck = 1510;
+				TargetAttributes = {
+					1E45DAE62B33053A002E3BEF = {
+						CreatedOnToolsVersion = 15.1;
+					};
+				};
+			};
+			buildConfigurationList = 1E45DAE22B33053A002E3BEF /* Build configuration list for PBXProject "NoTimeToStop" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 1E45DADE2B33053A002E3BEF;
+			packageReferences = (
+			);
+			productRefGroup = 1E45DAE82B33053A002E3BEF /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1E45DAE62B33053A002E3BEF /* NoTimeToStop */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1E45DAE52B33053A002E3BEF /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1E45DAF22B33053B002E3BEF /* Preview Assets.xcassets in Resources */,
+				1E45DB0E2B35D23F002E3BEF /* Aeonik-Black.ttf in Resources */,
+				1E45DAEF2B33053B002E3BEF /* Assets.xcassets in Resources */,
+				1E45DB042B330AA9002E3BEF /* Aeonik-Bold.ttf in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1E45DAE32B33053A002E3BEF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1E45DB0A2B34C5F7002E3BEF /* AppConfig.swift in Sources */,
+				1E26E0032B39B03A00BBAA42 /* TimerManager.swift in Sources */,
+				1EB78F8F2B3F2BD4001D0811 /* Documentation.docc in Sources */,
+				1E45DAED2B33053A002E3BEF /* ContentView.swift in Sources */,
+				1E26E0012B39B01400BBAA42 /* OrbView.swift in Sources */,
+				1E45DB082B34A62A002E3BEF /* SubtitleView.swift in Sources */,
+				1E45DAFD2B3306CE002E3BEF /* NoTimeView.swift in Sources */,
+				1E45DB012B330798002E3BEF /* StopThinkExistView.swift in Sources */,
+				1E45DAEB2B33053A002E3BEF /* NoTimeToStopApp.swift in Sources */,
+				1E45DAFF2B330727002E3BEF /* ToStopView.swift in Sources */,
+				1EB78F912B40B8B6001D0811 /* TimerEvent.swift in Sources */,
+				1E26E0002B39B01400BBAA42 /* FlipView.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1E45DAF32B33053B002E3BEF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		1E45DAF42B33053B002E3BEF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		1E45DAF62B33053B002E3BEF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"NoTimeToStop/Preview Content\"";
+				DEVELOPMENT_TEAM = HWPNWUA93R;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = NoTimeToStop/Info.plist;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = me.alex.hamilton.NoTimeToStop;
+				PRODUCT_NAME = "No Time To Stop.";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		1E45DAF72B33053B002E3BEF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"NoTimeToStop/Preview Content\"";
+				DEVELOPMENT_TEAM = HWPNWUA93R;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = NoTimeToStop/Info.plist;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = me.alex.hamilton.NoTimeToStop;
+				PRODUCT_NAME = "No Time To Stop.";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1E45DAE22B33053A002E3BEF /* Build configuration list for PBXProject "NoTimeToStop" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1E45DAF32B33053B002E3BEF /* Debug */,
+				1E45DAF42B33053B002E3BEF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1E45DAF52B33053B002E3BEF /* Build configuration list for PBXNativeTarget "NoTimeToStop" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1E45DAF62B33053B002E3BEF /* Debug */,
+				1E45DAF72B33053B002E3BEF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 1E45DADF2B33053A002E3BEF /* Project object */;
+}
