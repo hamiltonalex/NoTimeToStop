@@ -13,6 +13,9 @@ Before we get our hands dirty with code, let's lighten the mood. Imagine this: D
 We'll kick things off with a few memes and videos that perfectly capture the love-hate relationship between design and code. In these playful sketches, I see reflections of my own journey as a mobile developer in the tech world, where imaginative design meets the grounded reality of coding. I really enjoy them! 😍
 
 #### 😜 Creative Chaos: Inside the Designer's Mind
+
+Tap on the image to preview the video.
+
 [![meme 1](https://hamiltonalex.github.io/NoTimeToStop/memes/1d788681cb824953bd36d6ab89bb9bbb_low.png)](https://hamiltonalex.github.io/NoTimeToStop/memes/1d788681cb824953bd36d6ab89bb9bbb.MP4)
 
 #### 🤭 The Design vs The Programmer's POV
@@ -48,7 +51,7 @@ So, arm yourself with your favorite snack, settle into your coziest coding corne
 
 #### Showcase Animation:
 
-The initial animation created in After Effects.
+The initial animation created in After Effects. Tap on the image to preview the video.
 
 [![Order Design UK](https://hamiltonalex.github.io/NoTimeToStop/orderdesignuk/image.png)](https://hamiltonalex.github.io/NoTimeToStop/orderdesignuk/video.mp4)
 
@@ -1119,6 +1122,8 @@ struct ContentView: View {
 ```
 
 7. **Final Result:**
+
+Tap on the image to preview the video.
 
  [![Final Result](https://hamiltonalex.github.io/NoTimeToStop/final/final_result.png)](https://hamiltonalex.github.io/NoTimeToStop/final/final_result.mov)
 
