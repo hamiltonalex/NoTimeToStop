@@ -53,7 +53,7 @@ So, arm yourself with your favorite snack, settle into your coziest coding corne
 
 The initial animation created in After Effects. Tap on the image to preview the video.
 
-[![Order Design UK](https://hamiltonalex.github.io/NoTimeToStop/orderdesignuk/image.png)](https://hamiltonalex.github.io/NoTimeToStop/orderdesignuk/video.mp4)
+[![Order Design UK](https://hamiltonalex.github.io/NoTimeToStop/orderdesignuk/video.gif)](https://hamiltonalex.github.io/NoTimeToStop/orderdesignuk/video.mp4)
 
 - **The Key Elements:** 
 
@@ -1125,7 +1125,7 @@ struct ContentView: View {
 
 Tap on the image to preview the video.
 
- [![Final Result](https://hamiltonalex.github.io/NoTimeToStop/final/final_result.png)](https://hamiltonalex.github.io/NoTimeToStop/final/final_result.mov)
+ [![Final Result](https://hamiltonalex.github.io/NoTimeToStop/final/final_result.gif)](https://hamiltonalex.github.io/NoTimeToStop/final/final_result.mov)
 
 
 ### Part 9: 🌟 Final Thoughts
